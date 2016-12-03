@@ -1,2 +1,3 @@
 # Hello-World
-First time on Github
+First experience using Github
+Melinda Barrett, Age 21, Female
